@@ -56,14 +56,6 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
-    feature:
-      altText: Image hero section
-      caption: Image hero section
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-a
