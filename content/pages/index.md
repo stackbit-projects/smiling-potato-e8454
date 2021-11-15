@@ -57,7 +57,7 @@ sections:
       actions:
         justifyContent: flex-start
     feature:
-      altText: lorem-ipsum
+      altText: foobar
       caption: lorem-ipsum
       elementId: ''
       styles:
