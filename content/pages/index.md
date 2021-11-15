@@ -64,6 +64,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /favicon.svg
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-a
