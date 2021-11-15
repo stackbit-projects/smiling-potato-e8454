@@ -18,8 +18,16 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         alignItems: center
         justifyContent: center
         flexDirection: row
@@ -48,6 +56,14 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
+    feature:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-a
@@ -63,8 +79,16 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         fontWeight: '700'
